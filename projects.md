@@ -11,8 +11,10 @@ layout: default
 
 ---
 
+<br>
+
 ## Simulations of simultaneous light and charge production in Argon/CF4 mixtures
-#### Internship from 1/7/24 to 23/8/24
+#### 2024
 
 - Eight-week internship with the [MIGDAL collaboration](https://migdal.pp.rl.ac.uk/) at [STFC](https://www.ukri.org/councils/stfc/).
 - Simulations of electron avalanches in Gas Electron Multipliers ([GEMs](https://gdd.web.cern.ch/gem))
@@ -30,6 +32,65 @@ layout: default
 |Gas properties & electron-gas interaction simulations|[Garfield++](https://gitlab.cern.ch/garfield/garfieldpp), [Magboltz](https://magboltz.web.cern.ch/magboltz/)|
 |---|---|
 |Data analysis|Python|
+|---|---|
+|Data visualisation|[ROOT](https://root.cern.ch/)|
+|---|---|
+|Parallel computing|[HTCondor](https://htcondor.org/)|
+
+<br>
 
 ---
+
+<br>
+
+## Third year mini-project
+#### 2024
+
+- Investigation into the age, distance and extinction of open clusters through fitting isochrones to photometric data
+- Carried out as part of the Oxford physics course
+- Report can be viewed [here](/assets/Mini_Project_Report_T_Szwarcer.pdf)
+- Project received a score of 85
+
+<br>
+
+---
+
+<br>
+
+## Quantum mechanics LaTeX notes
+#### 2023
+
+- Comprehensive LaTeX notes on quantum mechanics
+- Distributed to students in the year below
+- Viewable [here](/assets/A3_ASAP_ver1.pdf)
+
+<br>
+
+---
+
+<br>
+
+## Linear algebra LaTeX notes
+#### 2022
+
+- Comprehensive LaTeX notes on linear algebra
+- Distributed to students in the year below
+- Viewable [here](/assets/Physics_First_Year_Linear_Algebra%20(1).pdf)
+
+<br>
+
+---
+
+<br>
+
+## Homemade cloud chamber
+#### 2020
+
+- Built a homemade cloud chamber during lockdown
+- Videos viewable [here](https://www.bit.ly/cloudchambervideos)
+
+<br>
+
+---
+
 
