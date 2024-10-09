@@ -4,6 +4,10 @@ layout: default
 <br>
 <br>
 
-- [Projects](./projects.html)
+# Pages
 
-- [CV](./cv.html)
+---
+
+## [Projects](./projects.html)
+
+## [CV](./cv.html)
