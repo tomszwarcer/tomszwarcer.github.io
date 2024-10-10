@@ -10,4 +10,4 @@ layout: default
 
 ## [Projects](./projects.html)
 
-## [CV](./cv.html)
+## [CV](/assets/TS%20CV%20Oct24.pdf)

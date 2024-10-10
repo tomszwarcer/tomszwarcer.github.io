@@ -6,9 +6,6 @@ layout: default
 
 # Projects
 
-<br>
-<br>
-
 ---
 
 <br>
@@ -21,6 +18,7 @@ layout: default
 - Investigation into avalanche-induced scintillation light production in Ar/CF4 mixtures
 - A project report can be found [here](/assets/MIGDAL_Report_final.pdf)
 - Code can be found [here](https://github.com/tomszwarcer/gemsim)
+- Presentation slides can be found [here](/assets/seminar_slides.pdf)
 
 |---|---|
 |Task|Tool used|
