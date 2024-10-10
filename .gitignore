@@ -5,3 +5,4 @@ Gemfile.lock
 .jekyll-cache
 docs/*
 .github/*
+assets/.Ds*
