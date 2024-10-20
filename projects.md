@@ -55,6 +55,24 @@ layout: default
 
 <br>
 
+## 1D FDTD simulation of EM waves
+#### 2024
+
+- Finite-Difference Time-Domain method used to simulate EM waves in the presence of dielectrics
+- Written using C++ and Python
+- Code can be found [here](https://github.com/tomszwarcer/fdtd-1d)
+- Report coming soon
+
+<br>
+
+![Example plot](/assets/e_example.gif)
+
+<br>
+
+---
+
+<br>
+
 ## Quantum mechanics LaTeX notes
 #### 2023
 
