@@ -10,12 +10,13 @@ layout: default
 
 <br>
 
-## Simulations of simultaneous light and charge production in Argon/CF4 mixtures
+## Dark Matter Summer Placement
 #### 2024
 
 - Eight-week internship with the [MIGDAL collaboration](https://migdal.pp.rl.ac.uk/) at [STFC](https://www.ukri.org/councils/stfc/).
 - Simulations of electron avalanches in Gas Electron Multipliers ([GEMs](https://gdd.web.cern.ch/gem))
 - Investigation into avalanche-induced scintillation light production in Ar/CF4 mixtures
+- Working towards the observation and measurement of the Migdal effect, an effect which could make existing dark matter detectors sensitive to a wider mass range.
 - A project report can be found [here](/assets/MIGDAL_Report_final.pdf)
 - Code can be found [here](https://github.com/tomszwarcer/gemsim)
 - Presentation slides can be found [here](/assets/seminar_slides.pdf)
@@ -48,6 +49,25 @@ layout: default
 - Carried out as part of the Oxford physics course
 - Report can be viewed [here](/assets/Mini_Project_Report_T_Szwarcer.pdf)
 - Project received a score of 85
+
+<br>
+
+---
+
+<br>
+
+## Gravitational N-body simulator
+#### 2024
+
+- Simulation of N bodies interacting under gravity
+- Verlet integration used
+- Written in Python
+- Code can be found [here](https://github.com/tomszwarcer/nbody)
+- For a higher quality version of the gif below, head to the [GitHub page](https://github.com/tomszwarcer/nbody)
+<br>
+
+![N-body example](/assets/nbody.gif)
+
 
 <br>
 
