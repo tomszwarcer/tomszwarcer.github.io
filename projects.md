@@ -32,7 +32,7 @@ layout: default
 |---|---|
 |Data analysis|Python|
 |---|---|
-|Data visualisation|[ROOT](https://root.cern.ch/)|
+|Data visualisation/analysis|[ROOT](https://root.cern.ch/)|
 |---|---|
 |Parallel computing|[HTCondor](https://htcondor.org/)|
 
