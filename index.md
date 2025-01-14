@@ -4,10 +4,6 @@ layout: default
 <br>
 <br>
 
-# Pages
+I'm a third year Physics student at Oriel College, Oxford. My areas of interest are neutrino physics, gravity, dark matter, the standard model, and philosophy of physics.
 
----
-
-## [Projects](./projects.html)
-
-## [CV](/assets/General%20CV.pdf)
+# [Projects](./projects.html)
