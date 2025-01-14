@@ -13,12 +13,13 @@ layout: default
 ## Dark Matter Summer Placement
 #### 2024
 
-- Eight-week internship with the [MIGDAL collaboration](https://migdal.pp.rl.ac.uk/) at [STFC](https://www.ukri.org/councils/stfc/), working towards the observation and measurement of the Migdal effect, an effect which could make existing dark matter detectors sensitive to a wider mass range.
-- Investigation done into the use of Magboltz to track the production of scintillation light in CF4/Ar mixtures, in the GEM geometry and E-field present in the MIGDAL time projection chamber
-- Proof of concept system for tracking the production of scintillation light in Garfield++/Magboltz was developed.
+- Eight-week internship with the [MIGDAL collaboration](https://migdal.pp.rl.ac.uk/) at [STFC](https://www.ukri.org/councils/stfc/), working towards the observation and measurement of the Migdal effect. This effect could make experiments that detect dark matter candidates sensitive to a wider mass range.
+-  Investigation done into the use of Garfield++ and Magboltz for tracking the production of scintillation light in CF4/Ar mixtures.
+- Application to the GEM geometry and E-field configuration present in the MIGDAL time projection chamber.
+- Proof of concept system for tracking the production of scintillation light was developed.
 - Methods for reducing computation time of GEM drift simulations were investigated
 - Gained experience working with gas detectors, including the operational principles of time projection chambers and GEMs
-- Progress regularly presented to the collaboration. Student seminar presentation given to other researchers and summer students. Project report assembled.
+- Progress regularly presented to the collaboration. Seminar presentation given to researchers and other summer students. Project report assembled.
 
 - Project report can be found [here](/assets/MIGDAL_Report_final.pdf)
 - Code can be found [here](https://github.com/tomszwarcer/gemsim)
@@ -48,9 +49,13 @@ layout: default
 ## Third year project
 #### 2024
 
-- Extended astrophysics practical project. By fitting isochrones to processed data from observational images, the age, distance, and extinction parameters for stellar clusters were obtained.
+- Extended astrophysics practical project. 
+- Data reduction and photometry was done on observational images. 
+- Membership to clusters was confirmed by matching proper motion and parallax data from the Gaia satellate to our processed data using TOPCAT. 
+- Colour magnitude diagrams were produced from the processed data, and isochrones fitted to them. Age, distance and extinction parameters, with estimated errors, were obtained. 
+- Literature search carried out to test agreement of results
 - Developed ability to quickly understand and use specialised scientific software and tools (QFitsView, SAOImageDS9, TOPCAT)
-- Literature search carried out. Results presented in a scientific report, which scored 85
+- Results presented in a scientific report, which scored 85
 
 - Report can be viewed [here](/assets/Mini_Project_Report_T_Szwarcer.pdf)
 
@@ -64,11 +69,11 @@ layout: default
 #### 2024
 
 - Written in Python
--Uses the velocity Verlet algorithm
+- Uses the velocity Verlet algorithm
 - Supports an arbitrary number of bodies with user-defined masses and initial positions/velocities
 - Capability to track energy and momentum conservation
 - Produces an animated GIF of the results
-- Skills: numerical methods for simulating dynamical systems. Writing efficient, vector based code in Python. Using NumPy.
+- Skills: principles of many-particle simulations. Numerical methods for simulating dynamical systems. Writing efficient, vector based code in Python. Using NumPy.
 
 - Code can be found [here](https://github.com/tomszwarcer/nbody)
 - For a higher quality version of the gif below, head to the [GitHub page](https://github.com/tomszwarcer/nbody)
