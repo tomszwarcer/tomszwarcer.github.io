@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tomszwarcer.github.io/sitemap.xml
