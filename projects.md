@@ -14,8 +14,8 @@ layout: default
 #### 2025
 
 - Currently in progress. 
-- Slides can be found [here](/assets/seminar_spacecharge_szwarcer.pdf)
-- Contributing to Garfield++ in order to account for the space charge effect in simulations of large avalanche dynamics
+- Slides can be found [here](/assets/seminar_spacecharge_szwarcer.pptx)
+- Contributing to Garfield++ in order to account for the space charge effect in microscopic simulations of large avalanche dynamics
 - Working with [DRD1](https://drd1.web.cern.ch/)
 - More details tbc.
 
