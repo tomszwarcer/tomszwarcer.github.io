@@ -13,11 +13,17 @@ layout: default
 ## CERN Summer Studentship
 #### 2025
 
-- Currently in progress. 
-- Slides can be found [here](/assets/seminar_spacecharge_szwarcer.pptx)
 - Contributing to Garfield++ in order to account for the space charge effect in microscopic simulations of large avalanche dynamics
 - Working with [DRD1](https://drd1.web.cern.ch/)
-- More details tbc.
+- Building on the work of C. Lippmann, W. Riegler, Nuclear Instruments and Methods in Physics Research A 517 (2004) 54–76
+- A new class in Garfield++ was written, `ComponentChargedRing', with support for grid-free and grid-assisted microscopic simulations of avalanches in the presence of space charge fields
+- Significant optimisations achieved following line-by-line profiling with Callgrind
+- Code written in C++, with data analysis done in Python
+- HTCondor used for batch computing
+
+- Project report can be found [here](https://repository.cern/records/fpfgq-hc985)
+- Code can be found [here](https://github.com/tomszwarcer/spacecharge-sim)
+- Presentation slides can be found [here](/assets/seminar_spacecharge_szwarcer.pptx)
 
 <br>
 
