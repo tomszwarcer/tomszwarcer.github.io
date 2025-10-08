@@ -13,17 +13,23 @@ layout: default
 ## CERN Summer Studentship
 #### 2025
 
-- Contributing to Garfield++ in order to account for the space charge effect in microscopic simulations of large avalanche dynamics
-- Working with [DRD1](https://drd1.web.cern.ch/)
-- Building on the work of C. Lippmann, W. Riegler, Nuclear Instruments and Methods in Physics Research A 517 (2004) 54–76
-- A new class in Garfield++ was written, `ComponentChargedRing', with support for grid-free and grid-assisted microscopic simulations of avalanches in the presence of space charge fields
-- Significant optimisations achieved following line-by-line profiling with Callgrind
-- Code written in C++, with data analysis done in Python
-- HTCondor used for batch computing
+- Contributions made to the open source simulation toolkit Garfield++ in order to take the space charge effect into account in microscopic tracking simulations. 
+- Framework created to model the space charge effect semi-analytically in avalanche simulations, with significant progress made into reducing the added computation overhead of the field calculations. Framework applied to investigate whether resistive anodes in gaseous detectors significantly affect the space charge field. Investigations made into the charge densities required to significantly affect the behaviour of gaseous detectors; results applied in a simulation study, confirming the presence of a gain-limiting effect. 
+- This work enables more accurate simulations of gaseous and silicon detectors, and improved understanding of the physical processes underlying detector behaviour.
+- Developed skills in using C++, including developing and implementing algorithms, profiling with Valgrind/Callgrind, techniques for optimisation and efficiency, and object-oriented programming. 
+- Simulations run in parallel on CERN computing cluster. Gained experience using HTCondor to manage computing resources. 
+- Languages used: C++, Python, Bash. All work was done on Linux systems. Git used for version control. Use of lldb for debugging.
+- Developed knowledge of the operational principles of gaseous detectors. 
+- Progress regularly presented to the CERN GDD group. Seminar presentation given to the CERN EP-DT group. Project report written, and added as a DRD1 technical note.
+- Work presented at the Oct. 2025 DRD1 collaboration meeting in Warsaw, Poland. (Slides linked below)
+- Supervisors: Djunes Janssens, Heinrich Schindler
+- Start: 30/6/2025. End: 19/9/2025 
 
 - Project report can be found [here](https://repository.cern/records/fpfgq-hc985)
 - Code can be found [here](https://github.com/tomszwarcer/spacecharge-sim)
-- Presentation slides can be found [here](/assets/seminar_spacecharge_szwarcer.pptx)
+- Presentation slides can be found [here](/assets/DRD1.pptx)
+
+![The space-charge effect](/assets/field_grid.gif)
 
 <br>
 
