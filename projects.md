@@ -10,6 +10,15 @@ layout: default
 
 <br>
 
+## MPhys Project
+#### 2025-2026
+
+- Details coming soon
+
+---
+
+<br>
+
 ## CERN Summer Studentship
 #### 2025
 
