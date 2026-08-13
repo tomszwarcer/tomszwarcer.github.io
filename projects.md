@@ -13,7 +13,15 @@ layout: default
 ## MPhys Project
 #### 2025-2026
 
-- Details coming soon
+- Project title: Characterising Particle ID Performance for the LHCb Calibration Sample $K_S^{0} \to \pi^+\pi^-$ in Run 3 Data
+- Investigation into the suitability of the $K_S^{0} \to \pi^+\pi^-$ calibration sample over the $D^{*+} \to D^0\pi^+$ calibration sample in the low momentum region. The latter sample is currently in use for LHCb PID, despite having poor purity and a background that is difficult to model in this kinematic range. This work showed that the $K_S^{0} \to \pi^+\pi^-$ sample could be made available as a more reliable sample for PID in the relevant kinematic range. This work improves the quality of pion PID calibration in the low momentum region, improving future analyses of LHCb data.
+- Furthermore, it was shown that the PID discrimination variable $\texttt{ProbNN}$ performed worse in comparison to the variable Delta-Log-Likelihood (DLL) over a certain subset of the low-momentum region. We would expect it to outperform the DLL, as it is a neural-network informed measure that in principle takes in more sources of information to produce its PID probability. This work showed this was not the case, which will allow for more informed analysis choices to be made, reducing uncertainties.
+- Developed skills in ROOT, RooFit, understanding of statistical techniques relevant in HEP data analysis (e.g. the sPlot technique). 
+- Languages used: Python, Bash. All work was done on Linux systems. Git used for version control.
+- Developed familiarity with the general operational principles of LHCb.
+- Supervisor: Prof. Sneha Malde
+
+- Project report can be found [here](/assets/MPhys_report.pdf)
 
 ---
 
