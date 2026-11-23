@@ -57,7 +57,7 @@ $$
 \end{align}
 $$
 
-Here, we made use of Rule 1, which let us combine the powers into a sum. We've provedq the statement that
+Here, we made use of Rule 1, which let us combine the powers into a sum. We've proved the statement that
 
 $$
 \begin{align}
